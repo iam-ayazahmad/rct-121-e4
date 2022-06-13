@@ -1,0 +1,74 @@
+{
+   "data": [{
+        "id": 1,
+        "employee_name": "Trumaine Tellenbrook",
+        "company": "Demivee",
+        "ctc": "$88968.51",
+        "email": "ttellenbrook0@infoseek.co.jp",
+        "phone": "538-728-7415"
+      }, {
+        "id": 2,
+        "employee_name": "Emelia Kibel",
+        "company": "Ntag",
+        "ctc": "$89355.55",
+        "email": "ekibel1@dmoz.org",
+        "phone": "225-734-0598"
+      }, {
+        "id": 3,
+        "employee_name": "Patricia Bentson",
+        "company": "Quatz",
+        "ctc": "$86950.73",
+        "email": "pbentson2@wordpress.com",
+        "phone": "277-536-2259"
+      }, {
+        "id": 4,
+        "employee_name": "Dan Lanceter",
+        "company": "Skippad",
+        "ctc": "$85008.41",
+        "email": "dlanceter3@webs.com",
+        "phone": "446-118-9692"
+      }, {
+        "id": 5,
+        "employee_name": "Vina Illiston",
+        "company": "Cogidoo",
+        "ctc": "$52308.71",
+        "email": "villiston4@businessweek.com",
+        "phone": "419-941-1296"
+      }, {
+        "id": 6,
+        "employee_name": "Bambi Neville",
+        "company": "Gabcube",
+        "ctc": "$78413.86",
+        "email": "bneville5@tinyurl.com",
+        "phone": "998-765-8053"
+      }, {
+        "id": 7,
+        "employee_name": "Wilie Leech",
+        "company": "Mudo",
+        "ctc": "$80313.34",
+        "email": "wleech6@nasa.gov",
+        "phone": "766-545-7883"
+      }, {
+        "id": 8,
+        "employee_name": "Elihu Aiskrigg",
+        "company": "Zooxo",
+        "ctc": "$75339.15",
+        "email": "eaiskrigg7@bandcamp.com",
+        "phone": "712-656-1452"
+      }, {
+        "id": 9,
+        "employee_name": "Silvana Toppin",
+        "company": "Gigaclub",
+        "ctc": "$86791.26",
+        "email": "stoppin8@cyberchimps.com",
+        "phone": "621-536-8486"
+      }, {
+        "id": 10,
+        "employee_name": "Deva Cromblehome",
+        "company": "Photobean",
+        "ctc": "$76326.72",
+        "email": "dcromblehome9@accuweather.com",
+        "phone": "255-239-2056"
+      }]
+      
+}
